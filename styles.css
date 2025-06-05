@@ -13,7 +13,7 @@ header {
 }
 
  section {
-    background: rgb(184,156,213);
+    background: rgb(41, 78, 119);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -33,7 +33,7 @@ header {
  }
 
  img {
-   min-height: 200px;
+   height: 200px;
  }
 
  .categoria-videos{
